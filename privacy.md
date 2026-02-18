@@ -1,25 +1,40 @@
-# Privacy Policy — BibleForStudy
+# Privacy Policy for BibleForStudy
 
-_Last updated: February 17, 2026_
+Effective Date: January 2026
 
-BibleForStudy is designed to work offline and does **not** collect personal data.
+BibleForStudy respects your privacy.
 
-## Data collection
-- We do **not** collect data from you.
-- We do **not** run ads.
-- We do **not** use third-party analytics SDKs.
-- We do **not** track you across apps or websites.
+## Data Collection
 
-## Data stored on your device
-To provide the app’s features, BibleForStudy stores the following **locally on your device**:
-- Verse highlights (including color)
-- Verse notes and chapter notes
-- Journal entries and prayer entries
-- Apple Pencil drawings/annotations (where supported)
+BibleForStudy does not collect, store, transmit, or share any personal data.
 
-This content stays on your device unless you back up your device using Apple’s backup methods.
+The app does not:
+- Require account creation
+- Use analytics services
+- Track user activity
+- Collect identifiers
+- Access location data
+- Share data with third parties
+
+## Local Data Storage
+
+All highlights, notes, drawings, and prayer entries are stored locally on your device only.
+
+No data is uploaded to external servers.
+
+## Third-Party Services
+
+BibleForStudy does not integrate with third-party tracking or advertising services.
 
 ## Contact
-If you have questions about privacy, contact:
+
+If you have questions about this Privacy Policy, please contact:
+
+
 - Email: gebti@icloud.com
+
+---
+
+© 2026 Gebre. All rights reserved.
+
 
